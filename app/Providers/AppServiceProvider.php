@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace LightingLocator\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
